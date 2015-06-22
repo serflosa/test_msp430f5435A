@@ -38,5 +38,7 @@ int main(void) {
 
     led_on(LED_YELLOW);
 
+    led_on(LED_GREEN);
+
 	return 0;
 }
