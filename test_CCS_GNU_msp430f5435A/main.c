@@ -35,6 +35,7 @@ int main(void) {
     _disable_interrupts();
     leds_init();
     led_on(LED_RED);
+    led_on(LED_GREEN);
 
 	return 0;
 }
